@@ -1,1 +1,52 @@
-Early wakeup
+## ✅ Tasks Completed:
+- Followed an early version of the project timeline using a partially completed Excel planning sheet.
+- Continued refining the **introduction section** of the report.
+- Created a **color-coded version** of the project tracker in Excel to visually represent task status:
+  - Categories include: **Expected**, **In Progress**, **Missed**, **Completed**
+- Outlined a **rough structure** for all remaining report sections.
+- Developed a **7-day structured work plan** aimed at completing the project by 14th July, with a built-in **2-day buffer** for flexibility and risk mitigation.
+
+## ⚠️ Issues Faced
+- Encountered an administrative delay outside of the project scope, resulting in a loss of approximately 1.5 hours of available work time.
+- Progress on improving the Excel tracking document was limited; although partially updated, it still requires formatting and task breakdown refinements.
+
+## 📝 Reflection
+While the day involved some external disruptions, progress was made in key planning and reporting areas. 
+Establishing a structured 7-day plan with buffers should enable steady progress and provide a clear direction moving forward.
+The visual tracker, though still in development, is already helping clarify priorities.
+
+## 📌 Next Steps
+
+### 🔔 **Immediate Tasks for Tomorrow (Day 5 – 08/07/2025)**
+- Begin **Requirements Definition & System Design**:
+  - Define system requirements and user scaling targets (3,000 → 15,000 → 25,000 users)
+  - Draft network and system architecture diagrams
+  - Write ~600–700 words explaining design choices and scalability considerations
+  - Insert visuals to support architectural explanations
+
+### 📅 Upcoming Tasks (Remainder of 7-Day Plan)
+- **Technology Selection & Justification**
+  - Compare firewall and web server technologies
+  - Justify selection based on scalability, security, performance
+  - Write ~800–900 words with supporting references
+
+- **IT Security Policies**
+  - Build a technical policy table (access, passwords, logging, etc.)
+  - Write ~300–400 words of explanatory rationale
+
+- **Deployment & Configuration**
+  - Deploy firewall and web server on Linux VM
+  - Include commands, config snippets, and screenshots
+  - Write ~900–1000 word deployment section
+
+- **Security Justifications**
+  - Justify firewall design against industry standards (e.g., PCI DSS, ISO 27001)
+  - Discuss scalability, HA options, and monitoring
+
+- **Testing & Validation**
+  - Perform firewall and web server testing (e.g., `nmap`, performance tools)
+  - Analyze results with screenshots/logs
+
+- **Conclusion & Final Review**
+  - Complete final write-up, evaluation, and formatting checks
+  - Ensure referencing, flow, and compliance with documentation standards
