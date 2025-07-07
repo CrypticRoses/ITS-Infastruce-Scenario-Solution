@@ -1,23 +1,20 @@
 04/07/2025
 # Project Overview: Designing and Securing IT Infrastructure for New Business Machine Ltd.
-
-This project focuses on designing and implementing a secure IT infrastructure for **New Business Machine Ltd. (NBM)**, a fictional e-commerce company specializing in the sale of electronic devices including laptops, computers, smartphones, and accessories.
-
-NBM currently serves around **3,000 customers**, with expected growth to **15,000** in the short term and up to **25,000** within a year. This rapid growth demands an infrastructure that is **scalable, resilient, and security-focused** to ensure reliable service delivery and data protection.
+This project focuses on designing and implementing a secure IT infrastructure for **New Business Machine Ltd.
+(NBM)**, a fictional e-commerce company specializing in the sale of electronic devices including laptops, computers, smartphones, and accessories.
+NBM currently serves around **3,000 customers**, with expected growth to **15,000** in the short term and up to **25,000** within a year. 
+This rapid growth demands an infrastructure that is **scalable, resilient, and security-focused** to ensure reliable service delivery and data protection.
 
 ## Scope of the Project
-
 As part of this infrastructure development, I have chosen to focus on the **design and security of a firewall system**, which plays a critical role in safeguarding the company’s network by controlling and monitoring traffic between internal systems and the public internet.
-
-In addition to the firewall, the project will also include the configuration of a **web server**, simulating a core public-facing component of NBM’s operations. Together, these systems will form the foundation of a secure, scalable, and efficient IT environment tailored to meet the company’s current and future needs.
+In addition to the firewall, the project will also include the configuration of a **web server**, simulating a core public-facing component of NBM’s operations.
+Together, these systems will form the foundation of a secure, scalable, and efficient IT environment tailored to meet the company’s current and future needs.
 
 ## Project Objectives
-
 - **Design a secure firewall system** to act as the first line of defense against external threats and enforce internal network policies.
 - **Deploy a web server** in a protected environment to simulate the company’s e-commerce platform.
 - **Ensure scalability** to support the expected customer growth and increased system demands.
 - **Implement security best practices**, including controlled access, encrypted communication, system monitoring, and routine updates.
 
 ---
-
 The goal of this project is to create a network infrastructure that ensures high availability, strong security, and future-readiness for the company’s expanding digital operations.
