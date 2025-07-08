@@ -1,1 +1,59 @@
-Wokeup lateish
+## ✅ Tasks Completed
+
+- Attended a scheduled meeting, which limited uninterrupted working hours.
+- Reviewed the project plan and identified the impact of lost time on today’s goals.
+- Prepared for workload redistribution to maintain the overall timeline and completion target of July 14th.
+
+## ⚠️ Issues Faced
+
+- A delayed start due to health-related reasons reduced available productivity hours.
+- Meeting commitments further limited time available for focused writing and technical work.
+- As a result, the planned **Requirements Definition & System Design** section was not completed.
+
+## 📝 Reflection
+
+Today presented some unavoidable scheduling and health-related setbacks. 
+However, thanks to the foresight of building a buffer into the 7-day plan, these disruptions can be mitigated with a slight redistribution of the workload. 
+The remaining schedule has been updated to reflect realistic task groupings and time allocations while still preserving quality.
+
+## 📌 Next Steps
+
+### 🔔 **Immediate Tasks for Tomorrow (Day 6 – 09/07/2025)**
+
+- Complete the **Requirements Definition & System Design** section:
+  - Define detailed user and scaling requirements (3,000 → 15,000 → 25,000 users)
+  - Draft network/system architecture diagrams
+  - Write 600–700 words justifying architectural and design decisions
+  - Insert diagrams to support explanations
+- Begin **Technology Selection & Justification**:
+  - Outline candidate technologies for firewall and web server components
+  - Structure the section to compare at least two viable options per component
+
+### 📅 Upcoming Tasks (Remainder of 7-Day Plan)
+
+- **Day 7 – Technology Selection & Justification (continued)**
+  - Finalize comparison of tools (e.g., UFW vs nftables, Apache2 vs NGINX)
+  - Add scholarly references supporting decisions
+  - Write ~800–900 words
+
+- **Day 8 – IT Security Policies**
+  - Draft security policy chain table: access control, password policy, logging, backups, data protection
+  - Provide brief rationale for each policy
+  - Write ~300–400 words
+
+- **Day 9 – Deployment & Configuration**
+  - Deploy firewall and web server on Kali Linux VM
+  - Capture and document commands, config snippets, and setup screenshots
+  - Write 900–1000 words on configuration and hardening steps
+
+- **Day 10 – Security Justifications**
+  - Describe firewall rules, stateful inspection, and DDoS protections
+  - Relate design to compliance standards (e.g., PCI DSS, ISO 27001)
+  - Discuss HA clusters, scalability, and logging/monitoring integration
+  - Write 500–600 words
+
+- **Day 11 – Testing, Conclusion & Final Review**
+  - Conduct `nmap` and firewall functionality tests
+  - Document results with screenshots and logs
+  - Write 400–500 word Testing section
+  - Finalize conclusion, edit entire report, format references
