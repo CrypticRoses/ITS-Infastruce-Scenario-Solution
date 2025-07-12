@@ -1,1 +1,45 @@
+## ✅ Tasks Completed:
+- Regained partial productivity and resumed active engagement with the project.
+- Reviewed and annotated technical resources to support **Technology Justification** section.
+- Created outlines for both:
+  - **Requirements Definition & Design**
+  - **Technology Selection & Justification**
+- Updated Excel tracker with revised targets for Days 9–11.
+
+## ⚠️ Issues Faced
+- Residual fatigue limited the ability to complete full sections in one sitting.
+- Work remains in partial state; deliverables from Days 5–7 still need to be finalized.
+- Need to compress tasks across remaining days with realistic output goals.
+
+## 📝 Reflection
+
+Today marked a slow but positive return to project work. While health challenges remain, foundational planning and outlining have resumed, enabling efficient drafting to begin immediately. Prioritizing writing and deployment next will be key to staying on track.
+
+## 📌 Next Steps
+
+### 🔔 **Immediate Tasks for Tomorrow (Day 9 – 12/07/2025)**
+
+- Finalize the following overdue sections:
+  - **Requirements Definition & Design**
+  - **Technology Selection & Justification**
+- Complete the **IT Security Policies** section:
+  - Fill out table (access, passwords, logging, backups)
+  - Write ~300–400 words explaining rationale
+
+- Begin **Deployment & Configuration**:
+  - Set up firewall (UFW/nftables) and web server (Apache/NGINX) on Kali Linux VM
+  - Capture screenshots and command logs
+
+### 📅 Upcoming Tasks
+
+- **Day 10 – 13/07/2025: Security Design Justifications**
+  - Analyze your setup's alignment with compliance standards
+  - Discuss failover design, monitoring, and future scalability
+  - Write 500–600 words
+
+- **Day 11 – 14/07/2025: Testing & Final Polish**
+  - Perform firewall/web server testing (e.g., `nmap`, browser access, logs)
+  - Finish Testing and Conclusion sections
+  - Perform editing, proofreading, formatting
+  - Submit final version and upload final commit to GitHub
 
