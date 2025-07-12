@@ -1,1 +1,45 @@
-Should have updated this yesterady
+## ✅ Tasks Completed:
+- Continued recovery from illness; workload was not resumed at full capacity.
+- Reassessed timeline feasibility given loss of two full working days.
+- Adjusted the internal project tracker and re-validated the priority list.
+
+## ⚠️ Issues Faced
+- Persistent fever prevented effective engagement with technical writing and research.
+- Key tasks from both Days 5 and 6 remain pending:
+  - Requirements Design
+  - Technology Justification
+
+## 📝 Reflection
+Despite continued health-related downtime, the priority moving forward is structured catch-up.
+Adjustments to the timeline, including working through buffer days or extending daily hours, will be necessary.
+By doubling effort across the next 2–3 days, recovery is achievable.
+
+## 📌 Next Steps
+
+### 🔔 **Immediate Tasks for Tomorrow (Day 8 – 11/07/2025)**
+
+- **Complete both pending sections**:
+  - Finalize **Requirements Definition & System Design**
+  - Write full **Technology Selection & Justification** (~800–900 words)
+    - Include analysis of performance, scalability, and security of candidate tools
+    - Support decisions with references
+
+- Start **IT Security Policies**:
+  - Draft partial policy chain table (focus on access control and backup policies)
+
+### 📅 Upcoming Tasks
+
+- **Day 9 – 12/07/2025: IT Security Policies (continued) + Deployment**
+  - Finalize full table of security policies
+  - Begin VM setup and configure the selected firewall and web server
+  - Document process with commands and screenshots
+
+- **Day 10 – 13/07/2025: Security Design & Compliance**
+  - Justify design in light of PCI DSS / ISO 27001 requirements
+  - Discuss improvements (HA, monitoring tools, scalability)
+  - Write 500–600 words
+
+- **Day 11 – 14/07/2025: Testing & Final Edits**
+  - Perform testing (port scans, log analysis)
+  - Finalize Testing and Conclusion sections
+  - Edit, format, and prepare for submission
