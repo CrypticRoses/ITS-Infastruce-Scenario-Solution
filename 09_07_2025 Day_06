@@ -1,1 +1,46 @@
-Nice and early start
+## ✅ Tasks Completed:
+- Due to ongoing illness, no tangible project progress was made today.
+- Reflected on remaining workload and began mentally outlining a revised path forward to stay within the original July 14th completion target.
+
+## ⚠️ Issues Faced
+- Illness significantly limited capacity to perform cognitive and technical tasks.
+- The planned **Requirements Definition & System Design** and **Technology Selection & Justification** sections remained incomplete.
+- Original work schedule now requires adjustment to accommodate missed days.
+
+## 📝 Reflection
+Health setbacks created a notable delay in the schedule, but with the built-in 2-day buffer and a willingness to intensify effort over the coming days,
+project momentum can still be recovered. It is essential to stay disciplined and focused as health gradually improves.
+
+## 📌 Next Steps
+
+### 🔔 **Immediate Tasks for Tomorrow (Day 7 – 10/07/2025)**
+
+- Finalize **Requirements Definition & System Design**:
+  - Scale requirement planning for 3,000 → 15,000 → 25,000 users
+  - Complete network/system architecture diagrams
+  - Write ~600–700 words justifying infrastructure and scaling choices
+
+- Progress on **Technology Selection & Justification**:
+  - Begin comparing technologies (UFW vs nftables, Apache2 vs NGINX)
+  - Draft early outline of the section and begin collecting academic sources
+
+### 📅 Upcoming Tasks
+
+- **Day 8 – 11/07/2025: IT Security Policies**
+  - Build a security policy table (access control, logging, backup, password policies)
+  - Write ~300–400 words of policy rationale
+
+- **Day 9 – 12/07/2025: Deployment & Configuration**
+  - Deploy and configure the firewall and web server in a Linux VM
+  - Capture commands, config files, and screenshots
+  - Write ~900–1000 words documenting the configuration steps
+
+- **Day 10 – 13/07/2025: Security Justifications**
+  - Discuss design alignment with PCI DSS / ISO 27001
+  - Include scalability, HA options, and IDS/IPS discussions
+  - Write ~500–600 words
+
+- **Day 11 – 14/07/2025: Testing & Finalization**
+  - Conduct and document testing procedures (e.g., `nmap`, log validation)
+  - Write testing analysis (~400–500 words)
+  - Finalize conclusion, polish entire report, format references
